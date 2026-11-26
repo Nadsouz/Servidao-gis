@@ -26,6 +26,9 @@ O plugin gera:
 - `imoveis_atingidos.xlsx`;
 - `relatorio_servidao.pdf`.
 
+## Imagens de uso
+- interface [Interface do Servidão GIS](docs/Images/interface.jpeg)
+
 ## Observações importantes
 - A largura informada é total. Exemplo: 60 m significa 30 m para cada lado do eixo.
 - No modo variável, cada segmento precisa possuir um valor positivo no campo de largura.
