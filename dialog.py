@@ -7,7 +7,7 @@ from qgis.PyQt.QtWidgets import (
     QPushButton, QFileDialog, QComboBox, QDoubleSpinBox, QTextEdit,
     QMessageBox, QGroupBox, QGridLayout
 )
-
+from qgis.PyQt.QtGui import QIcon
 from .core.processamento import executar_analise
 
 
@@ -15,11 +15,20 @@ class ServidaoGISDialog(QDialog):
     def __init__(self, iface):
         super().__init__(iface.mainWindow())
         self.iface = iface
+
         self.setWindowTitle("Servidão GIS — Análise de faixa de servidão")
+
+        icon_path = os.path.join(
+            os.path.dirname(__file__),
+            'resources',
+            'icon.svg'
+        )
+        self.setWindowIcon(QIcon(icon_path))
+
         self.setMinimumWidth(680)
         self.setMinimumHeight(650)
-        self._montar_interface()
 
+        self._montar_interface()
     def _montar_interface(self):
         root = QVBoxLayout(self)
 
