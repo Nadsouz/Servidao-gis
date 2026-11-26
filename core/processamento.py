@@ -26,11 +26,7 @@ def _log(callback, mensagem):
 
 
 def _inicializar_processing():
-    try:
-        Processing.initialize()
-    except Exception:
-        # Em algumas sessões do QGIS o provedor já está inicializado.
-        pass
+    Processing.initialize()
 
 
 def carregar_vetor(caminho, nome="camada", camada_interna=""):
