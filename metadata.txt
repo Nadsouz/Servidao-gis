@@ -7,6 +7,7 @@ author=Nadson Souza
 email= nads12on@gmail.com
 about=Gera faixa de servidão por buffer fixo ou variável, identifica imóveis CAR interceptados e exporta GeoPackage, Excel e relatório PDF.
 category=Vector
+license=GPL-3.0
 icon=resources/icon.svg
 experimental=True
 deprecated=False
