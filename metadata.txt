@@ -8,16 +8,10 @@ email= nads12on@gmail.com
 about=Ferramenta de análise de faixas de servidão por meio de buffers fixos ou variáveis. Identifica imóveis cadastrados no CAR interceptados pelo corredor, calcula áreas e percentuais de interseção e permite exportar resultados em GeoPackage, Excel e PDF.
 category=Vector
 license=GPL-3.0
-
 icon=resources/icon.svg
 experimental=True
 deprecated=False
 homepage=https://github.com/Nadsouz/Servidao-gis
 repository=https://github.com/Nadsouz/Servidao-gis
 tracker=https://github.com/Nadsouz/Servidao-gis/issues
-
-changelog=0.1.0 - Primeira versão do Servidão GIS.
-Implementação de buffers fixos e variáveis.
-Identificação de imóveis CAR interceptados.
-Cálculo de áreas e percentuais de interseção.
-Exportação para GeoPackage, Excel e PDF.
+changelog=0.1.0 - Primeira versão do Servidão GIS, com buffers fixos e variáveis, identificação de imóveis CAR interceptados, cálculo de áreas e percentuais de interseção e exportação para GeoPackage, Excel e PDF.
