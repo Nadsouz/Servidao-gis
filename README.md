@@ -27,13 +27,9 @@ O plugin gera:
 - `relatorio_servidao.pdf`.
 
 ## Imagens de uso
-### interface
   ![Interface do Servidão GIS](docs/Imagens/interface.jpeg)
--  Execução
   ![Interface do Servidão GIS](docs/Imagens/Execução.jpeg)
--  Resultado gráfico
   ![Interface do Servidão GIS](docs/Imagens/Resultado_gráfico.jpeg)
--  Relatório
   ![Interface do Servidão GIS](docs/Imagens/relatorio_1.jpeg)
   ![Interface do Servidão GIS](docs/Imagens/Relatório_2.jpeg)
   ![Interface do Servidão GIS](docs/Imagens/Relatorio_3.jpeg)
