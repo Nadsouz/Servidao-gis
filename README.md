@@ -1,4 +1,5 @@
-# Servidão GIS  ![Interface do Servidão GIS](resources/icon.svg)
+![Interface do Servidão GIS](resources/icon.svg)
+# Servidão GIS  
 
 Plugin QGIS para análise de faixa de servidão e imóveis interceptados pelo Cadastro Ambiental Rural (CAR).
 
