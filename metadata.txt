@@ -8,12 +8,14 @@ email= nads12on@gmail.com
 about=Gera faixa de servidão por buffer fixo ou variável, identifica imóveis CAR interceptados e exporta GeoPackage, Excel e relatório PDF.
 category=Vector
 license=GPL-3.0
+
 icon=resources/icon.svg
 experimental=True
 deprecated=False
 homepage=https://github.com/Nadsouz/Servidao-gis
 repository=https://github.com/Nadsouz/Servidao-gis
 tracker=https://github.com/Nadsouz/Servidao-gis/issues
+
 changelog=0.1.0 - Primeira versão do Servidão GIS.
 Implementação de buffers fixos e variáveis.
 Identificação de imóveis CAR interceptados.
