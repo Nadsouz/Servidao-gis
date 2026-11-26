@@ -2,7 +2,7 @@
 name=Servidão GIS
 qgisMinimumVersion=3.28
 description=GIS tool for easement corridor analysis and intersected rural properties.
-version=0.1.0
+version=0.1.1
 author=Nadson Souza
 email= nads12on@gmail.com
 about=Ferramenta de análise de faixas de servidão por meio de buffers fixos ou variáveis. Identifica imóveis cadastrados no CAR interceptados pelo corredor, calcula áreas e percentuais de interseção e permite exportar resultados em GeoPackage, Excel e PDF.
