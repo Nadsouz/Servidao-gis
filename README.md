@@ -28,15 +28,15 @@ O plugin gera:
 
 ## Imagens de uso
 - interface
--  ![Interface do Servidão GIS](docs/Imagens/interface.jpeg)
+  ![Interface do Servidão GIS](docs/Imagens/interface.jpeg)
 -  Execução
--  ![Interface do Servidão GIS](docs/Imagens/Execução.jpeg)
+  ![Interface do Servidão GIS](docs/Imagens/Execução.jpeg)
 -  Resultado gráfico
--  ![Interface do Servidão GIS](docs/Imagens/Resultado_gráfico.jpeg)
+  ![Interface do Servidão GIS](docs/Imagens/Resultado_gráfico.jpeg)
 -  Relatório
--  ![Interface do Servidão GIS](docs/Imagens/relatorio_1.jpeg)
--  ![Interface do Servidão GIS](docs/Imagens/Relatorio_2.jpeg)
--  ![Interface do Servidão GIS](docs/Imagens/Relatorio_3.jpeg)
+  ![Interface do Servidão GIS](docs/Imagens/relatorio_1.jpeg)
+  ![Interface do Servidão GIS](docs/Imagens/Relatorio_2.jpeg)
+  ![Interface do Servidão GIS](docs/Imagens/Relatorio_3.jpeg)
 
 ## Observações importantes
 - A largura informada é total. Exemplo: 60 m significa 30 m para cada lado do eixo.
