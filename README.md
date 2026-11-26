@@ -27,7 +27,7 @@ O plugin gera:
 - `relatorio_servidao.pdf`.
 
 ## Imagens de uso
-- interface [Interface do Servidão GIS](docs/Imagens/interface.jpeg)
+- interface ![Interface do Servidão GIS](docs/Imagens/interface.jpeg)
 
 ## Observações importantes
 - A largura informada é total. Exemplo: 60 m significa 30 m para cada lado do eixo.
