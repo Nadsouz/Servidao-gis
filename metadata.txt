@@ -11,3 +11,11 @@ license=GPL-3.0
 icon=resources/icon.svg
 experimental=True
 deprecated=False
+homepage=https://github.com/Nadsouz/Servidao-gis
+repository=https://github.com/Nadsouz/Servidao-gis
+tracker=https://github.com/Nadsouz/Servidao-gis/issues
+changelog=0.1.0 - Primeira versão do Servidão GIS.
+Implementação de buffers fixos e variáveis.
+Identificação de imóveis CAR interceptados.
+Cálculo de áreas e percentuais de interseção.
+Exportação para GeoPackage, Excel e PDF.
